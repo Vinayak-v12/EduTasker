@@ -65,6 +65,12 @@ src/main/java/com/edutasker
 |── Service
 └── EduTaskerApplication.java
 
+## 🚀 Getting Started
+
+### 📥 Clone
+```bash
+git clone <repo-url>
+cd to this folder
 
 ▶️ Running the Application
 Using Maven
